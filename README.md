@@ -9,7 +9,7 @@ You:
 Have no exposure to Python or want to start from scratch. You may know another language, you may not. 
 
 No biggie either way, smalls.
-
+This is my change
 We:
 Both subscribe to the Buddhist "Beginners Mind" concept. I can't wait for you to teach me something!
 
